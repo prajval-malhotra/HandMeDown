@@ -1,6 +1,6 @@
 # handMeDown
 
-A new Flutter project.
+Created in a team setting for HackTheNorth 2021
 
 ## Getting Started
 
